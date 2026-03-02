@@ -1,10 +1,10 @@
 ---
-title:  "Unlocking Insights with Data Visualization in Tableau"
+title: "Unlocking Insights with Data Visualization in Tableau"
 date: 2026-03-02 23:40:00 +0300
 categories: [Data_analysis]
 tags: [tableau,datavisualisation]
 ---
-## Tableau
+
 In today’s data-driven world, raw numbers alone rarely tell the full story. To truly understand trends, patterns and opportunities, visualization is key and that’s where **Tableau** shines. Tableau is a powerful data visualization tool designed to transform complex datasets into clear, interactive dashboards. Its drag-and-drop interface makes it accessible to beginners, while its advanced features provide depth for professionals.  
 
 Data visualization is essential for turning raw data into clear, actionable insights. Businesses use Tableau to track performance, healthcare professionals to monitor outcomes and educators to analyze student data. The tool’s strength lies in its ability to make complex information easy to understand and share.
