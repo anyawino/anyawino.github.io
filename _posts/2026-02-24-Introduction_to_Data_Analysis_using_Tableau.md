@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Insights with Data Visualization in Tableau"
+title: Unlocking Insights with Data Visualization in Tableau
 date: 2026-03-02 23:40:00 +0300
 categories: [Data_analysis]
 tags: [tableau,datavisualisation]
