@@ -4,8 +4,9 @@ date: 2026-03-02 23:40:00 +0300
 categories: [Data_analysis]
 tags: [tableau,datavisualisation]
 image:
-path: 
-alt:
+path: assets/visualization.png
+width: 1200
+height: 630
 ---
 
 In today’s data-driven world, raw numbers alone rarely tell the full story. To truly understand trends, patterns and opportunities, visualization is key and that’s where **Tableau** shines. Tableau is a powerful data visualization tool designed to transform complex datasets into clear, interactive dashboards. Its drag-and-drop interface makes it accessible to beginners, while its advanced features provide depth for professionals.  
