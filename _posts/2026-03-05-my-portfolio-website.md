@@ -4,7 +4,7 @@ date: 2026-03-05
 categories: [Projects]
 tags: [HTML, CSS, Jekyll]
 image:
-  path: /assets/website.png
+  path: 
 ---
 This is my personal portfolio website built using Jekyll and the Chirpy theme.
 
