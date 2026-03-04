@@ -3,9 +3,6 @@ title: My first Tableau Dashboard
 date: 2026-03-05
 categories: [Projects]
 tags: [Tableau,dataanalysis] 
-path: assets/tableau.png
-width: 1200
-height: 630
 ---
 This week we explored the power of data visualization using Tableau. Guided by the tutorial from Data With Baraa, the learning process was practical and highly insightful.
 I worked with the Kenyan HR dataset, which provided a real-world context to apply visualization techniques and like any new tool,there were challenges. 
