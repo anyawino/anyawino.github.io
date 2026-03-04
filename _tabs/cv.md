@@ -5,4 +5,4 @@ order: 4
 ---
 You can download my full CV here:
 
-[Download My CV](/assets/files/Nyawino_Ann_CV.pdf)
+[Download My CV](/assets/Nyawino_Ann_CV.pdf)
